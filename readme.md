@@ -10,7 +10,7 @@ I’ve just started my journey, and this space will grow as I learn and practice
 
 ---
 
-## 🧠 About
+## 🧠 About 
 📌 Practicing problem-solving  
 📌 Learning Data Structures & Algorithms  
 📌 Improving logic step by step  
@@ -18,8 +18,8 @@ I’ve just started my journey, and this space will grow as I learn and practice
 ---
 
 ## 🌱 Journey
-🌟 Starting small  
+🌟 Starting with small problem's 
 🌟 Learning daily  
-🌟 Getting better with time  
+🌟 Getting better with time   
 
 ---
